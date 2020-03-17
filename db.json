@@ -1,34 +1,19 @@
 {
-  "accounts":[
+  "banks":[
     {
       "id": 1,
-      "name": "Mr.Silva",
-      "phone": "07777777777",
-      "nic": "902827392V",
-      "account": {
-        "accountNumber": "123-234",
-        "type": "savings"
-      }
+      "branch":"Colombo",
+      "manager": "Mr.Silva",
     },
     {
       "id": 2,
-      "name": "Mr.Thomas",
-      "phone": "0777772312",
-      "nic": "912927392V",
-      "account": {
-        "accountNumber": "123-345",
-        "type": "savings"
-      }
+      "branch":"Galle",
+      "manager": "Mr.Thomas",
     },
     {
       "id": 3,
-      "name": "Ms.Jane",
-      "phone": "0712345678",
-      "nic": "882827922V",
-      "account": {
-        "accountNumber": "123-987",
-        "type": "current"
-      }
+      "branch":"Kandy",
+      "manager": "Ms.Jane",
     }
   ]
 }
