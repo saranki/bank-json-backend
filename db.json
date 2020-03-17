@@ -1,19 +1,19 @@
 {
-  "banks":[
-    {
-      "id": 1,
-      "branch":"Colombo",
-      "manager": "Mr.Silva",
-    },
-    {
-      "id": 2,
-      "branch":"Galle",
-      "manager": "Mr.Thomas",
-    },
-    {
-      "id": 3,
-      "branch":"Kandy",
-      "manager": "Ms.Jane",
-    }
-  ]
+   "banks":[
+      {
+         "id":1,
+         "branch":"Colombo",
+         "manager":"Mr.Silva"
+      },
+      {
+         "id":2,
+         "branch":"Galle",
+         "manager":"Mr.Thomas"
+      },
+      {
+         "id":3,
+         "branch":"Kandy",
+         "manager":"Ms.Jane"
+      }
+   ]
 }
